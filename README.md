@@ -60,9 +60,6 @@ Simple-Todo-App/
 ## Contributing
 Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgments
-- Inspired by the simplicity of task management tools.
-- Thanks to the open-source community for providing amazing tools and libraries.
+
+
